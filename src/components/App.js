@@ -8,7 +8,7 @@ export default function App() {
     <div class="ball">
       <h1
         class="count"
-        onDoubleclick={() => {
+        onDoubleClick={() => {
           alert("cant edit it");
         }}
       >
